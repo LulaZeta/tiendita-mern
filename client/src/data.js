@@ -10,7 +10,7 @@ const data = {
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      description: 'high quality shirt',
+      description: 'high quality ',
     },
     {
       name: 'Adidas Fit Shirt',
@@ -25,7 +25,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Nike Slim Pant',
+      name: 'Dress',
       slug: 'nike-slim-pant',
       category: 'Pants',
       image: '/images/imagen03.jpg',
@@ -39,8 +39,8 @@ const data = {
     {
       name: 'Adidas Fit Pant',
       slug: 'adidas-fit-pant',
-      category: 'Pants',
-      image: '/images/imagen04.jpg',
+      category: 'Dress',
+      image: '/images/imagen05.jpg',
       price: 65,
       countInStock: 5,
       brand: 'Puma',
