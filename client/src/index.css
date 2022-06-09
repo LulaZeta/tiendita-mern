@@ -25,6 +25,11 @@ main {
   flex: 1;
 }
 
+.btn-primary {
+  background-color: #2f2f2f;
+  border: none;
+  color: #fff;
+}
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -33,6 +38,9 @@ main {
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
+}
+.rating span {
+  color: #ffc000;
 }
 
 .product img {

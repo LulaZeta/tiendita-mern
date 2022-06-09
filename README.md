@@ -46,3 +46,8 @@ V10 Bootstrap
 1. Add Bootstrap UI Framework npm install react-bootstrap bootstrap
 2. Update App.js
 3. npm install react-router-bootstrap Esto es para LinkContainer
+
+V11 Create Product and Rating Component
+
+1. Create Rating Component
+2. Use Rating component in Product component
