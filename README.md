@@ -39,4 +39,10 @@ V9 Manage State By Reducer Hook FRONT END
 1. Define reducer
 2. update fetch data
 3. get state from useReducer
-4. npm install use-reducer-logger --force (debug de state y ver cambios en el reducer )
+4. npm install use-reducer-logger --force (debugger de state y ver cambios en el reducer )
+
+V10 Bootstrap
+
+1. Add Bootstrap UI Framework npm install react-bootstrap bootstrap
+2. Update App.js
+3. npm install react-router-bootstrap Esto es para LinkContainer
