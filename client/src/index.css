@@ -58,3 +58,8 @@ main {
 .product-info {
   padding: 1rem;
 }
+
+/* ---------- ProductScreen ----------- */
+.img-large {
+  max-width: 100%;
+}
