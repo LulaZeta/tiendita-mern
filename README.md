@@ -56,3 +56,11 @@ V12 Create Product Details Screen
 
 1. Fetch product from backend
 2. create 3 comumns for image, info and action
+3. npm install react-helmet-async //para q aparezca en la solapa el nombre del producto q estamos viendo
+
+v13 SPINNER/message the backend
+
+1. create loading component
+2. use sinner component
+3. create message component
+4. create util.js to define getError function
