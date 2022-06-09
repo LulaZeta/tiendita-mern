@@ -51,3 +51,8 @@ V11 Create Product and Rating Component
 
 1. Create Rating Component
 2. Use Rating component in Product component
+
+V12 Create Product Details Screen
+
+1. Fetch product from backend
+2. create 3 comumns for image, info and action

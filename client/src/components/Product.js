@@ -17,7 +17,9 @@ const Product = (props) => {
         </Link>
         <Rating rating={product.rating} numReviews={product.numReviews} />
         <Card.Text>${product.price}</Card.Text>
-        <Button>Add to cart</Button>
+        <div className="d-grid gap-2">
+          <Button>Add to cart</Button>
+        </div>
       </Card.Body>
     </Card>
   );
