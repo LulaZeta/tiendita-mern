@@ -64,3 +64,10 @@ v13 SPINNER/message the backend
 2. use sinner component
 3. create message component
 4. create util.js to define getError function
+
+v14 Implement Add to Cart
+
+1. Create React Context
+2. define Reducer
+3. Create store provider
+4. implement add to cart button click handle
