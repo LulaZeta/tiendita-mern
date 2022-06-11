@@ -71,3 +71,8 @@ v14 Implement Add to Cart
 2. define Reducer
 3. Create store provider
 4. implement add to cart button click handle
+
+V15 Complete Add To Cart
+
+1. check existe item in the cart
+2. check count in stock in backend
