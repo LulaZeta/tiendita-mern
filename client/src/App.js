@@ -2,10 +2,18 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomeScreen from './screen/HomeScreen';
 import ProductScreen from './screen/ProductScreen';
 import Navbar from 'react-bootstrap/Navbar';
+import Badge from 'react-bootstrap/Badge';
 import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
 import { LinkContainer } from 'react-router-bootstrap';
+import { Link } from 'react-router-dom';
+import { useContext } from 'react';
+import { Store } from './Store';
 
 function App() {
+  const { state } = useContext(Store);
+  const { cart } = state;
+
   return (
     <BrowserRouter>
       <div className="d-flex flex-column site-container">
@@ -15,6 +23,16 @@ function App() {
               <LinkContainer to="/">
                 <Navbar.Brand>tiendita</Navbar.Brand>
               </LinkContainer>
+              <Nav className="me-auto">
+                <Link to="/cart" className="nav-link">
+                  Cart
+                  {cart.cartItems.length && (
+                    <Badge pill bg="light" text="dark">
+                      {cart.cartItems.length}
+                    </Badge>
+                  )}
+                </Link>
+              </Nav>
             </Container>
           </Navbar>
         </header>
