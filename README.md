@@ -82,3 +82,9 @@ V16 Create Cart Screen
 1. Create 2 columns
 2. Display item list
 3. Create action column
+
+V17 Complete Cart Screen
+
+1. Click handler for inc/des item
+2. Click handler for remove item
+3. Click handler for checkout
