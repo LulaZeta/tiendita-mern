@@ -122,3 +122,10 @@ V22 Create Signin Backend API
 2. npm install express-async-handler
 3. npm install jsonwebtoken
 4. define generateToken
+
+V23 Complete SignIn Screen
+
+1. Handle submit action
+2. Save Token in store and local Storage
+3. Show user name in header
+4. npm i react-toastify
