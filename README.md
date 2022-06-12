@@ -101,3 +101,11 @@ V19 Connect to MongoDB Database - BACKEND (2:55)
 2. install local mongodb database // npm install mongoose, npm i dotenv
 3. npm install mongoose
 4. Connect to mongodb database
+
+V20 Seed Sample Data
+
+1. Create Product Model
+2. Create User model
+3. Create seed route
+4. use route in server.js
+5. seed sample product
