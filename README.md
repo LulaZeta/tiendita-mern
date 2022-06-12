@@ -109,3 +109,9 @@ V20 Seed Sample Data
 3. Create seed route
 4. use route in server.js
 5. seed sample product
+
+V20 Seed Sample User
+
+1. Create user Model
+2. seed sample user
+3. create user routes
