@@ -32,14 +32,14 @@ const Product = (props) => {
         <img src={product.image} className="card-img-top" alt={product.name} />
       </Link>
       <Card.Body>
-        <Link to={`/product/${product.slug}`}>
+        <Link to={`/product/${product.slug}`} className="text-link">
           <Card.Title>{product.name}</Card.Title>
         </Link>
         <Rating rating={product.rating} numReviews={product.numReviews} />
         <Card.Text>${product.price}</Card.Text>
         <div className="d-grid gap-2">
           {product.countInStock === 0 ? (
-            <Button variant="light" disabled>
+            <Button variant="basic" disabled>
               Out of Stock
             </Button>
           ) : (
