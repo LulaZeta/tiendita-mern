@@ -94,3 +94,10 @@ V18 Create Signin Screen(2:48)
 1. Create sign in form
 2. Add email and password
 3. add signin button
+
+V19 Connect to MongoDB Database - BACKEND (2:55)
+
+1. Create atlas mongodb database
+2. install local mongodb database // npm install mongoose, npm i dotenv
+3. npm install mongoose
+4. Connect to mongodb database
