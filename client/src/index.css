@@ -37,7 +37,14 @@ main {
 
   transition: all 0.3s ease;
 }
-
+.text-link {
+  color: inherit;
+  text-decoration: none;
+}
+.text-link:hover {
+  color: #5a5a5a;
+}
+/* ------ HomeScrenn ---- */
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -47,6 +54,7 @@ main {
   border: 1px #404040 solid;
   margin: 1rem;
 }
+/*------ Rating --------*/
 .rating span {
   color: #ffc000;
 }
@@ -58,19 +66,13 @@ main {
 .product-info {
   padding: 1rem;
 }
-.text-link {
-  color: inherit;
-  text-decoration: none;
-}
-.text-link:hover {
-  color: #5a5a5a;
-}
+
 /* ---------- ProductScreen ----------- */
 .img-large {
   max-width: 100%;
 }
 
-/* --------- CArtScreen --------------- */
+/* --------- CartScreen --------------- */
 .img-thumbnail {
   height: 80px;
 }
