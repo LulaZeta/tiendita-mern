@@ -129,3 +129,9 @@ V23 Complete SignIn Screen
 2. Save Token in store and local Storage
 3. Show user name in header
 4. npm i react-toastify
+
+v24 Create Shipping Screen
+
+1. Create form inputs
+2. Handle save shipping address
+3. Add checkout wizard bar
