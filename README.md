@@ -110,8 +110,15 @@ V20 Seed Sample Data
 4. use route in server.js
 5. seed sample product
 
-V20 Seed Sample User
+V21 Seed Sample User
 
-1. Create user Model
+1. Create user Model // npm i bcryptjs
 2. seed sample user
 3. create user routes
+
+V22 Create Signin Backend API
+
+1. Create signin api
+2. npm install express-async-handler
+3. npm install jsonwebtoken
+4. define generateToken
