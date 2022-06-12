@@ -88,3 +88,9 @@ V17 Complete Cart Screen
 1. Click handler for inc/des item
 2. Click handler for remove item
 3. Click handler for checkout
+
+V18 Create Signin Screen(2:48)
+
+1. Create sign in form
+2. Add email and password
+3. add signin button
