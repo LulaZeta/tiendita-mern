@@ -141,3 +141,8 @@ V25 Create Sign Up Screen
 1. Create input forms
 2. Handle submit
 3. Create backend api
+
+V26 Implement Select Payment Method Screen
+
+1. Create input form
+2. handle submit
