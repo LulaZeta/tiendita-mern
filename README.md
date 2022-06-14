@@ -191,7 +191,7 @@ V32 Create Profile Screen
 
 V33 Publish To Heroku
 
-1. create and config node project
+1. create and config node project //npm init
 2. serve build folder in frontend folder
 3. Create heroku account
 4. connect it to github
