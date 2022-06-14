@@ -176,8 +176,15 @@ V29 Create Order Screen
 8. implement onApprove payment function
 9. create pay order api in backend
 
-V31 Display Order History
+V31 Display Order History //responsive Navbar
 
 1. create order screen
 2. Create order history api
 3. use api in the fronted
+
+V32 Create Profile Screen
+
+1. get user info from context
+2. show user information
+3. create user update api
+4. update user info
