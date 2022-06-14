@@ -199,7 +199,19 @@ V33 Publish To Heroku
 6. Set database connection in heroku env variables
 7. Commit and push
 
-V34 Add Sidebar and Search Box
+V34 Add Sidebar and Search Box (5:48)
 
 1. add sidebar
 2. add search box
+
+V35 Create Search Screen
+
+1. show filters
+2. create api for searching products
+3. display results
+
+V36 Create Admin Menu
+
+1. define protected route component
+2. define admin route component
+3. add menu for admin in header
