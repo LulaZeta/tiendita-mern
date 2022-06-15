@@ -227,3 +227,9 @@ V38 Manage Products
 1. create products list ui
 2. implement backend api
 3. fetch data
+
+V39 Create product
+
+1. create products button
+2. implement backend api
+3. handle on click
