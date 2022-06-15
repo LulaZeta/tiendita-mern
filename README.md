@@ -221,3 +221,9 @@ V37 Create DashBoard Screen
 1. create dashboard ui // npm install --save react-google-charts
 2. implement backend api
 3. connect ui to backend
+
+V38 Manage Products
+
+1. create products list ui
+2. implement backend api
+3. fetch data
