@@ -244,3 +244,16 @@ V41 Implement Update Product
 
 1. create edit product backend api
 2. handle update click
+
+V42 Upload Product Image (no lo hice)
+
+1. create cloudinary account
+2. use the api key in env file
+3. handle upload file
+4. implement backend api to upload
+
+V43 Delete Product
+
+1. show delete button
+2. implement backend api
+3. handle on click
