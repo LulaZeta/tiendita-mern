@@ -257,3 +257,9 @@ V43 Delete Product
 1. show delete button
 2. implement backend api
 3. handle on click
+
+V47 List User
+
+1. create user list screen
+2. implement backen api
+3. fetch and display users
