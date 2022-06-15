@@ -28,7 +28,7 @@ import SearchBox from './components/SearchBox';
 import SearchScreen from './screen/SearchScreen';
 import ProtectedRoute from './components/ProtectedRoutes';
 import DashboardScreen from './screen/DashboardScreen';
-import AdminRoute from './components/AdminRoutes copy';
+import AdminRoute from './components/AdminRoutes';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);

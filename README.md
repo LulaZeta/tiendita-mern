@@ -215,3 +215,9 @@ V36 Create Admin Menu
 1. define protected route component
 2. define admin route component
 3. add menu for admin in header
+
+V37 Create DashBoard Screen
+
+1. create dashboard ui // npm install --save react-google-charts
+2. implement backend api
+3. connect ui to backend
