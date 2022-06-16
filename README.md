@@ -277,3 +277,9 @@ V49 Delete User
 1. add delete button
 2. handle click action
 3. implement backen api for delete
+
+V52 Review Orders
+
+1. create submit review form
+2. handle submit
+3. implement backend api for review
