@@ -289,3 +289,10 @@ V44 List Orders
 1. create order list screen
 2. implement backen api
 3. fetch and display orders
+
+V42 Upload Product Image (no lo hice)
+
+1. create cloudinary account (npm i cloudinary, npm i streamifier, npm install --save multer)
+2. use the api key in env file
+3. handle upload file
+4. implement backend api to upload
