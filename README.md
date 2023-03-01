@@ -1,5 +1,25 @@
 # TIENDITA MERN
 
+## App realizada con MongoDB, Express, React, NodeJS.
+
+
+
+<div align="center">
+ <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita01.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita02.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductDetail.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_shoppingCart.jpg'  width=600>
+    <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductFilter.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductShippingAddress.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductPaymentMethod.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductPreviewOrder.jpg'  width=600>
+    <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita03_ProductOrder.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita_Admin_Dashboard.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita_Admin_ProductList.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita_Admin_ProductLEdit.jpg'  width=600>
+     <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita_Admin_OrdersList.jpg'  width=600>    
+    </div>
+
 FRONT
 
 1. npx create-react-app
